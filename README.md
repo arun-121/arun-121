@@ -6,10 +6,6 @@
 - 📫 How to reach me **arunramesh900@gmail.com**
 
 
-# 💫 About Me:
-Hi 👋, I'm Arun<br>Computer Science Engineering Student<br>🔭 I’m currently working on sorting-visualizer<br><br>📫 How to reach me arunramesh900@gmail.com
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arun-ramesh900) 
 <a href="https://www.leetcode.com/arun-sr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arun-sr" height="30" width="40" /></a>
