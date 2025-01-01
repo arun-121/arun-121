@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
 
-- 🔭 I’m currently working on [sorting-visualizer](https://arun-121.github.io/sorting-visualizer/)
+
 
 - 📫 How to reach me **arunramesh900@gmail.com**
 
